@@ -1,5 +1,5 @@
 {
-  "name": "Weekly Weather Forecast app",
+  "name": "weather-forecast-app",
   "version": "1.0.0",
   "description": "Check out the weekly forecast for your favorite cities",
   "main": "index.js",
